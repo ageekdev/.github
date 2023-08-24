@@ -1,4 +1,4 @@
-<p align="center"><img src="../docs/images/ageekdev.svg" width="200" alt="ageekdev"></p>
+<p align="center"><img src="https://github.com/ageekdev/.github/blob/main/docs/images/ageekdev.svg" width="200" alt="ageekdev"></p>
 
 ## Welcome to Ageekdev
 
